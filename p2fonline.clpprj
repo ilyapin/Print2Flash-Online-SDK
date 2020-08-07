@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="e:\H\lithesoft\print2flash\SDKNEW\p2fonline.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/p2fsdknew/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/p2fsdknew/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";e:\H\lithesoft\print2flash\SDKNEW\Source;e:\H\lithesoft\print2flash\SDKNEW\Source\htmltemplate.html;e:\H\lithesoft\print2flash\SDKNEW\Source\template.html;e:\H\lithesoft\print2flash\SDKNEW\Web\input;e:\H\lithesoft\print2flash\SDKNEW\Web\input\convsrv.txt;e:\H\lithesoft\print2flash\SDKNEW\bin;e:\H\lithesoft\print2flash\SDKNEW\bin\convsrv.ini;e:\H\lithesoft\print2flash\SDKNEW\dbschema.txt;e:\H\lithesoft\print2flash\SDKNEW\dcu;e:\H\lithesoft\print2flash\SDKNEW\dcu\Win32;e:\H\lithesoft\print2flash\SDKNEW\dcu\Win32\Debug;e:\H\lithesoft\print2flash\SDKNEW\dcu\Win32\Release;"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\db\schema.sql"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\index.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\db\schema.sql" crc="1596658098040"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\content\index3.php" crc="1596656703904"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\content\docviewer.html" crc="1464882475042"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\content\doc3.php" crc="1596235416005"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\upload.php" crc="1596633488845"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\progress.php" crc="1596639985806"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\onlineutils.php" crc="1596483935599"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\index.php" crc="1596635230554"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\convert.php" crc="1596635281467"/>
+  <file name="e:\H\lithesoft\print2flash\SDKNEW\Web\config.php" crc="1596631900431"/>
+ </filescache>
+</project>
